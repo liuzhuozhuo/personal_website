@@ -73,7 +73,8 @@ ul {
 
 /* === Education & Projects === */
 section#education h3,
-section#projects h3 {
+section#projects h3,
+section#skills h3 {
   font-size: 1.2rem;
   margin-bottom: 5px;
   color: #1a5276;
